@@ -1,0 +1,4 @@
+P01:Banh bo:10:100
+P02:Banh da heo:50:200
+P03:Hu tieu suon:1:50
+P04:Xe dap:20:1000
